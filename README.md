@@ -15,6 +15,13 @@
 
 * Community contributions are not accepted at this time. Check back later for updates.
 
+## Installation
+To install the project, run the following command:
+
+```bash
+npm install
+
+
 ## Credits
 
 * This repository is maintained by [Angelos Chalaris]([https://github.com/30-seconds](https://github.com/Chalarangelo)).
